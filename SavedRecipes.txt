@@ -1,0 +1,1 @@
+{"recipes":[{"name":"Pannkakor","time":"15 minuter","servings":"8","id":2065,"ingredients":["3 dl vetemjöl","6 dl mjölk","3 ägg"]},{"name":"Pannkaka","time":"05 minuter","servings":"1","id":5393,"ingredients":["3 dl vetemjöl","6 dl mjölk","3 ägg"]},{"name":"Pannkaka","time":"05 minuter","servings":"1","id":8845,"ingredients":["3 dl vetemjöl","6 dl mjölk","3 ägg"]}]}
